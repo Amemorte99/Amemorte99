@@ -1,130 +1,95 @@
-KOI-SONN MANES MANA
-Ingénieur Logiciel & Architecte Logiciel
-N'Djaména, Tchad | 27 ans
-📞 +235 66 14 95 63 | ✉️ koisonnmames@gmail.com
-🔗 LinkedIn : linkedin.com/in/votre-profil | GitHub : github.com/votre-compte
+<div align="center">
+
+# 👋 Hi, I'm KOI-SONN MANES MANA
+
+### Software Architect • Backend Engineer • Full-Stack Developer
+
+🇹🇩 Chad
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox)](https://amemorte99.github.io/porto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/koisonn-manes-mana99/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:koisonnmanes@gmail.com)
+
+</div>
 
 ---
 
-👨‍💻 PROFIL
+## 🚀 About Me
 
-Ingénieur logiciel et architecte logiciel avec plus de 6 ans d'expérience dans le développement Full-Stack,
-l'architecture microservices et la transformation digitale.
-Spécialisé dans les systèmes financiers (FinTech), les plateformes de transfert d'argent,
-les API sécurisées et les architectures distribuées.
+I'm a Software Architect and Backend Engineer passionate about building secure, scalable and high-performance software. I specialize in **distributed systems**, **microservices**, and **payment platforms**.
 
-Fort d'une double compétence technique et managériale, j'accompagne les équipes dans la conception,
-le déploiement et l'optimisation de solutions logicielles scalables et résilientes.
+*   🏢 **Currently:** Head of IT @ NITA Transfert d'Argent
+*   🎓 **Education:** Master's Degree in Software Architecture
+*   💡 **Expertise:** Java, Spring Boot, Microservices, gRPC, Cloud (AWS/Azure), React, Flutter.
 
 ---
 
-💼 EXPÉRIENCES PROFESSIONNELLES
+## 📊 GitHub Statistics
 
-🏢 NITA Tchad — Chef du Service Informatique
-Déc 2025 – Présent | N'Djamena, Tchad
-
-• Pilotage du système d'information et supervision des opérations IT.
-• Gestion des infrastructures (serveurs, réseaux, hébergement, sécurité).
-• Coordination des équipes techniques et suivi des projets informatiques.
-• Pilotage des intégrations avec les partenaires techniques (SMS, Airtime, Paiement, UBA, CORIS).
-• Gestion des relations fournisseurs et optimisation des performances IT.
-• Contribution à la digitalisation des services de transfert d'argent.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amemorte99&show_icons=true&theme=github_dark"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amemorte99&theme=github-dark"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amemorte99&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
-🏢 ESMC GIE — Développeur Full-stack / Lead Technique
-Mars 2022 – Sept 2025 | Lomé, Togo (CDI)
+## 💼 Core Expertise
 
-• Conception d'une plateforme blockchain basée sur une architecture microservices (15+ microservices).
-• Développement de Smart Contracts ERC-1155.
-• Intégration de multiples API de paiement.
-• Automatisation des processus ayant réduit certains traitements de 60 %.
-• Mise en place de NFIs avancés et de stockage décentralisé.
-
----
-
-🏢 SEMFIELD — Développeur C# (Temps partiel)
-Juillet 2024 – Déc 2024 | Lomé, Togo
-
-• Développement d'un logiciel de recensement biométrique.
-• Enrôlement, contrôle et authentification de 1 500+ pensionnés.
-• Traitement sécurisé de 10 000+ opérations sans aucune perte de données.
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Kotlin, NodeJS, NestJS, Laravel |
+| **Frontend** | React, Vue, Flutter, React Native |
+| **DevOps & Cloud** | Docker, CI/CD, AWS, Azure, Firebase |
+| **Database** | PostgreSQL, MySQL, MongoDB |
+| **Architecture** | Microservices, REST, gRPC, Clean Architecture |
 
 ---
 
-🏢 KDI-GROUP — Développeur Full-stack (Temps partiel)
-Juin 2023 – Août 2023 | Lomé, Togo
+## 🛠️ Featured Projects
 
-• Création et maintenance de 3 applications web (Angular, jQuery, NestJS, MongoDB).
-• Utilisation quotidienne par 20 collaborateurs pour le suivi client et la gestion interne.
-• Automatisation des workflows ayant réduit le temps de traitement des dossiers de 40 %.
+<!-- Ici tu mets tes meilleurs projets avec une description courte -->
 
----
+### 💳 Payment Platform
+Enterprise payment architecture.
+**Stack:** Java, Spring Boot, Docker, MySQL, gRPC
 
-🏢 TOROGROUP COMMUNICATION — Développeur Full-stack (Temps partiel)
-Sept 2022 – Juin 2023 | Lomé, Togo
+### 🛒 DodaShop
+Modern E-Commerce Platform.
+**Stack:** React, NodeJS, Express, MongoDB
 
-• Développement et maintenance d'applications web avec Angular, JavaScript, jQuery, Ajax,
-  Spring Boot, MySQL et PostgreSQL.
-
----
-
-🏢 JGK TECHNOLOGIE — Développeur Full-stack
-Fév 2020 – Juin 2022 | Lomé, Togo
-
-• Conception et optimisation de sites web dynamiques (PHP, WordPress, ASP.NET).
-• Déploiement de 10+ sites web générant 50 000 visites cumulées.
-• Augmentation du taux de conversion de 15 % pour les clients.
-• Encadrement technique sur des projets de digitalisation et blockchain.
+### 📦 Spring Boot CRUD Template
+Reusable template with best practices.
+**Stack:** Java, Spring Boot, MongoDB, Swagger, Docker
 
 ---
 
-📚 FORMATION
+## 🏆 Career Timeline
 
-🎓 Master Informatique – Architecture Logicielle | ESGIS | 2022 – 2023
-🎓 Licence Informatique – Architecture Logicielle | ESGIS | 2020 – 2021
-🎓 Licence Systèmes, Réseaux et Sécurité | ESGIS | 2023 – 2024
-
----
-
-📜 CERTIFICATIONS
-
-• Foundations of Software Architecture and Monolithic Systems – Packt, 2026
-• Microservices Design Patterns – Udemy, 2025
-• Introduction to DevOps – IBM, 2026
-• Introduction to Cybersecurity Careers – IBM, 2026
-• Introduction to Kubernetes – Udemy, 2025
-• Project Management Professional (PMP) – Udemy, 2025
+*   **2026 - Present:** Head of IT @ NITA Transfert d'Argent
+*   **2022 - 2025:** Full-Stack Developer / Lead Tech @ ESMC GIE
+*   **2020 - 2022:** Full-Stack Developer @ JGK TECHNOLOGIE
 
 ---
 
-🛠 COMPÉTENCES TECHNIQUES
+## 📜 Certifications
 
-Langages               : Java, TypeScript, JavaScript, C#, C, C++, PHP, Ajax
-Frameworks Backend     : Spring Boot, Java EE, NestJS, ASP.NET, JavaFX
-Frameworks Frontend    : React, Next.js, Angular, Bootstrap, Angular Material, JSF, Laravel
-Bases de données       : MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, MariaDB
-Requêtage              : SQL, HQL, JPQL
-Cloud & DevOps         : Docker, Git, CI/CD, AWS
-Virtualisation         : VirtualBox, VMware
-Architecture           : Microservices, REST API, UML, Design Patterns GoF
-Modélisation           : PowerAMC, MySQL Workbench
-Reporting              : Jasper Studio
-CMS                    : WordPress
-IDE                    : VS Code, IntelliJ IDEA, NetBeans, Android Studio
-Systèmes d'exploitation : Windows, Ubuntu, Linux Mint
-Bureautique            : Pack Office (Word, Excel, PowerPoint, Publisher, Access)
+*   Foundations of Software Architecture, Packt (2026)
+*   Microservices Design Patterns, Udemy (2025)
+*   Introduction to DevOps & Cybersecurity, IBM (2026)
 
 ---
 
-🌍 LANGUES
+## 📫 Let's Connect
 
-• Français : Courant
-• Arabe : Courant
-• Anglais : Scolaire / Technique
+*   **Email:** koisonnmanes@gmail.com
+*   **LinkedIn:** [linkedin.com/in/koisonn-manes-mana99](https://www.linkedin.com/in/koisonn-manes-mana99/)
+*   **Portfolio:** [amemorte99.github.io/porto](https://amemorte99.github.io/porto/)
 
----
+<div align="center">
 
-🎯 CENTRES D'INTÉRÊT
+### ⭐ *Building the future, one microservice at a time.*
 
-Jeux vidéo, musique, voyage, football, basket-ball, volleyball, veille technologique.
+</div>
