@@ -1,61 +1,239 @@
-# 👋 Bonjour, je suis KOI‑SONN MANES MANA (Amemorte99)
+<div align="center">
 
-**Architecte logiciel & développeur full‑stack** | 5+ ans d’expérience | Passionné par les APIs, microservices, blockchain & automatisation.
+# 👋 Hi, I'm KOI-SONN MANES MANA
 
----
+### Software Architect • Backend Engineer • Full-Stack Developer
 
-## 🛠️ Tech / Stack
+🇹🇩 Chad
 
-| Backend                        | Frontend                 | DevOps & Infra           | Outils & Librairies                        |
-|--------------------------------|-------------------------|-------------------------|-------------------------------------------|
-| Java, Spring Boot, gRPC, Kotlin| HTML/CSS, JS, React/Vue | Docker, CI/CD, Cloud    | Git, Bases de données, Tests, Automatisation |
-| C, C++, C#, Dart, Python, PHP  | Flutter, React Native    | AWS, Azure, Firebase     | NumPy, Pandas, scikit-learn, Matplotlib   |
-| Laravel, NestJS, NodeJS        | Tailwind, SASS, Bootstrap | Render, Vercel, Netlify | Figma, Adobe XD, Illustrator, Photoshop  |
+Designing scalable software, payment systems and cloud-native applications.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox)](https://amemorte99.github.io/porto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/koisonn-manes-mana99/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:koisonnmanes@gmail.com)
 
----
+![](https://komarev.com/ghpvc/?username=Amemorte99&style=for-the-badge)
 
-## 🔎 Ce que j’aime faire
-
-- Concevoir des **microservices robustes et scalables**  
-- Développer des **APIs REST / gRPC** claires et maintenables  
-- Automatiser les workflows, l’intégration et le déploiement  
-- Explorer et implémenter **solutions blockchain / smart contracts**  
-- Contribuer à l’open-source et partager mes connaissances  
+</div>
 
 ---
 
-## 📂 Projets mis en avant
+# 🚀 About Me
 
-- **[crud_mongo‑template‑spring‑boot](https://github.com/Amemorte99/crud_mongo-template-spring-boot)** — Template CRUD Java + MongoDB  
-- **[dodaShop](https://github.com/Amemorte99/dodaShop)** — Application full‑stack JS/Node pour e-commerce  
-- **[gestioncar](https://github.com/Amemorte99/gestioncar)** — Gestion de données en Java, architecture clean-code  
-- **[github‑cicid‑actions](https://github.com/Amemorte99/github-cicid-actions)** — Automatisation CI/CD de workflow  
-- **[chatBotOrientation](https://github.com/Amemorte99/chatBotOrientation)** — Prototype Python pour assistance et démonstration polyvalente  
+I'm a Software Architect and Backend Engineer passionate about building secure, scalable and high-performance software.
 
-*(Épingler 4–6 projets principaux sur GitHub pour la visibilité)*
+I specialize in:
 
----
+- Enterprise Software Architecture
+- Backend Development
+- REST APIs
+- gRPC Services
+- Distributed Systems
+- Payment Platforms
+- Cloud Computing
+- DevOps Automation
 
-## 🎯 Objectif
+Currently:
 
-Rejoindre une équipe ambitieuse (startup ou entreprise internationale) pour construire **solutions backend scalables**, explorer **architecture cloud & microservices**, et innover dans la **blockchain / automatisation**.
-
----
-
-## 📬 Me contacter
-
-- **LinkedIn:** [koisonn-manes-mana99](https://www.linkedin.com/in/koisonn-manes-mana99/)  
-- **Email:** [koisonnmanes@gmail.com](mailto:koisonnmanes@gmail.com)  
-- **Portfolio:** [amemorte99.github.io/porto](https://amemorte99.github.io/porto/)  
+- 🏢 Head of IT — NITA Transfert d'Argent
+- 🎓 Master's Degree in Software Architecture
+- 🌍 Open to international collaboration
 
 ---
 
-🌐 **Socials:** Behance | LinkedIn | Quora | Reddit | Stack Overflow | TikTok | X | YouTube  
+# 💼 Expertise
 
-💻 **Tech Highlights:** Java, Spring Boot, Python, JS/TS, React/Vue, NodeJS, Docker, CI/CD, AWS, Firebase, MySQL/Postgres/MongoDB, Figma, Adobe Suite, Flutter, Tailwind, GitHub Actions  
+| Domain | Technologies |
+|---------|--------------|
+| Backend | Java, Spring Boot, Kotlin, NodeJS, NestJS, Laravel |
+| Frontend | React, Vue, Flutter, React Native |
+| DevOps | Docker, CI/CD, GitHub Actions |
+| Cloud | AWS, Azure, Firebase |
+| Database | PostgreSQL, MySQL, MariaDB, MongoDB |
+| API | REST, gRPC, JWT |
+| Architecture | Microservices, Clean Architecture |
 
 ---
 
-*« Code propre, architecture claire, impact réel. »*
+# 🛠 Main Technologies
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+
+### Frameworks
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-success?style=for-the-badge&logo=springboot)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![NodeJS](https://img.shields.io/badge/NodeJS-success?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+
+![GitHub Actions](https://img.shields.io/badge/GitHubActions-black?style=for-the-badge&logo=githubactions)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amemorte99&show_icons=true&theme=github_dark"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Amemorte99&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amemorte99&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 Payment Platform
+
+Enterprise payment architecture.
+
+Java • Spring Boot • Docker • MySQL
+
+---
+
+## 🛒 DodaShop
+
+Modern E-commerce Platform
+
+React • NodeJS • MongoDB
+
+---
+
+## 📦 Spring Boot CRUD Template
+
+Java
+
+Spring Boot
+
+MongoDB
+
+Swagger
+
+Docker
+
+---
+
+## 🤖 AI ChatBot
+
+Python
+
+Machine Learning
+
+Automation
+
+---
+
+# 🏆 Experience
+
+### 2026 - Present
+
+## Head of Information Technology
+
+NITA Transfert d'Argent
+
+Software Architecture
+
+Infrastructure
+
+Cloud
+
+Cybersecurity
+
+Digital Transformation
+
+---
+
+### 2025
+
+Software Engineer
+
+Backend Development
+
+Payment Systems
+
+---
+
+### 2024
+
+Full Stack Developer
+
+Web Applications
+
+Mobile Applications
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- Kafka
+- Event Driven Architecture
+- AI Engineering
+- Cloud Native Development
+
+---
+
+# 📜 Certifications
+
+- IBM
+- Meta
+- Coursera
+- Microsoft Learn
+- Cisco Networking
+- DevOps Foundations
+
+---
+
+# 🎯 2026 Goals
+
+- Build enterprise-scale microservices
+- Contribute more to Open Source
+- Obtain cloud certifications
+- Publish technical articles
+- Collaborate with international teams
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+**koisonnmanes@gmail.com**
+
+🌐 Portfolio
+
+https://amemorte99.github.io/porto/
+
+💼 LinkedIn
+
+https://linkedin.com/in/koisonn-manes-mana99
+
+---
+
+<div align="center">
+
+### ⭐ "Clean Code. Scalable Architecture. Real Business Impact."
+
+</div>
