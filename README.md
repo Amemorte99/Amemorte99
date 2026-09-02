@@ -6,7 +6,7 @@
 
 🇹🇩 Chad
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox)](https://amemorte99.github.io/porto/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox)](https://koisonnmanes.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/koisonn-manes-mana99/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:koisonnmanes@gmail.com)
 
