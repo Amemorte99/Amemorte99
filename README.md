@@ -1,95 +1,109 @@
 <div align="center">
 
-# 👋 Hi, I'm KOI-SONN MANES MANA
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=KOI-SONN%20MANES%20MANA&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Architect%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=60" alt="KOI-SONN MANES MANA" />
 
-### Software Architect • Backend Engineer • Full-Stack Developer
+**Building secure, scalable and high-performance software for payment platforms and distributed systems.**
 
-🇹🇩 Chad
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox)](https://koisonnmanes.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/koisonn-manes-mana99/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:koisonnmanes@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-koisonnmanes.tech-0f172a?style=flat-square&logo=firefox&logoColor=white)](https://koisonnmanes.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koisonn-manes-mana99/)
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:koisonnmanes@gmail.com)
+![Location](https://img.shields.io/badge/Location-Chad%20%F0%9F%87%B9%F0%9F%87%A9-475569?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a Software Architect and Backend Engineer passionate about building secure, scalable and high-performance software. I specialize in **distributed systems**, **microservices**, and **payment platforms**.
+Software Architect and Backend Engineer with 6+ years of experience designing and delivering **distributed systems**, **microservices** and **payment platforms**. I focus on clean architecture, reliability and security, from system design to production.
 
-*   🏢 **Currently:** Head of IT @ NITA Transfert d'Argent
-*   🎓 **Education:** Master's Degree in Software Architecture
-*   💡 **Expertise:** Java, Spring Boot, Microservices, gRPC, Cloud (AWS/Azure), React, Flutter.
+- **Current role:** Head of IT at NITA Transfert d'Argent
+- **Education:** Master's Degree in Software Architecture
+- **Focus areas:** Microservices, event-driven design, payment systems, cloud-native delivery
 
 ---
 
-## 📊 GitHub Statistics
+## Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Architecture:** Microservices · REST · gRPC · Clean Architecture
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Payment Platform** | Enterprise-grade payment architecture | Java, Spring Boot, Docker, MySQL, gRPC |
+| **DodaShop** | Modern e-commerce platform | React, Node.js, Express, MongoDB |
+| **Spring Boot CRUD Template** | Reusable starter applying best practices | Java, Spring Boot, MongoDB, Swagger, Docker |
+
+---
+
+## Experience
+
+| Period | Role | Company |
+| :--- | :--- | :--- |
+| 2026 – Present | Head of IT | NITA Transfert d'Argent |
+| 2022 – 2025 | Full-Stack Developer / Tech Lead | ESMC GIE |
+| 2020 – 2022 | Full-Stack Developer | JGK TECHNOLOGIE |
+
+---
+
+## Certifications
+
+- **Foundations of Software Architecture**, Packt (2026)
+- **Introduction to DevOps & Cybersecurity**, IBM (2026)
+- **Microservices Design Patterns**, Udemy (2025)
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amemorte99&show_icons=true&theme=github_dark"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amemorte99&theme=github-dark"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amemorte99&layout=compact&theme=github_dark"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amemorte99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amemorte99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
 ---
 
-## 💼 Core Expertise
+## Contact
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend** | Java, Spring Boot, Kotlin, NodeJS, NestJS, Laravel |
-| **Frontend** | React, Vue, Flutter, React Native |
-| **DevOps & Cloud** | Docker, CI/CD, AWS, Azure, Firebase |
-| **Database** | PostgreSQL, MySQL, MongoDB |
-| **Architecture** | Microservices, REST, gRPC, Clean Architecture |
-
----
-
-## 🛠️ Featured Projects
-
-<!-- Ici tu mets tes meilleurs projets avec une description courte -->
-
-### 💳 Payment Platform
-Enterprise payment architecture.
-**Stack:** Java, Spring Boot, Docker, MySQL, gRPC
-
-### 🛒 DodaShop
-Modern E-Commerce Platform.
-**Stack:** React, NodeJS, Express, MongoDB
-
-### 📦 Spring Boot CRUD Template
-Reusable template with best practices.
-**Stack:** Java, Spring Boot, MongoDB, Swagger, Docker
-
----
-
-## 🏆 Career Timeline
-
-*   **2026 - Present:** Head of IT @ NITA Transfert d'Argent
-*   **2022 - 2025:** Full-Stack Developer / Lead Tech @ ESMC GIE
-*   **2020 - 2022:** Full-Stack Developer @ JGK TECHNOLOGIE
-
----
-
-## 📜 Certifications
-
-*   Foundations of Software Architecture, Packt (2026)
-*   Microservices Design Patterns, Udemy (2025)
-*   Introduction to DevOps & Cybersecurity, IBM (2026)
-
----
-
-## 📫 Let's Connect
-
-*   **Email:** koisonnmanes@gmail.com
-*   **LinkedIn:** [linkedin.com/in/koisonn-manes-mana99](https://www.linkedin.com/in/koisonn-manes-mana99/)
-*   **Portfolio:** [https://kmmportfolio.netlify.app](https://kmmportfolio.netlify.app)
+- **Email:** [koisonnmanes@gmail.com](mailto:koisonnmanes@gmail.com)
+- **LinkedIn:** [linkedin.com/in/koisonn-manes-mana99](https://www.linkedin.com/in/koisonn-manes-mana99/)
+- **Portfolio:** [koisonnmanes.tech](https://koisonnmanes.tech) · [kmmportfolio.netlify.app](https://kmmportfolio.netlify.app)
 
 <div align="center">
 
-### ⭐ *Building the future, one microservice at a time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2563eb,100:0f172a&section=footer" alt="" />
 
 </div>
