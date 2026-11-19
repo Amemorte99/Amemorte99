@@ -1,0 +1,134 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:2563eb&text=KOI-SONN%20MANES%20MANA&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Architect%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=60" alt="KOI-SONN MANES MANA" />
+
+### Je conçois des plateformes de paiement fiables et scalables.
+
+[English](README.md) · **Français**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-koisonnmanes.tech-0f172a?style=flat-square&logo=firefox&logoColor=white)](https://koisonnmanes.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koisonn-manes-mana99/)
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:koisonnmanes@gmail.com)
+![Location](https://img.shields.io/badge/Bas%C3%A9%20au-Tchad-475569?style=flat-square)
+
+</div>
+
+---
+
+## À propos
+
+Architecte logiciel et ingénieur backend spécialisé dans les **systèmes distribués**, les **microservices** et les **plateformes de paiement**. Je transforme des besoins métier complexes en architectures propres, sécurisées et maintenables, de la conception à la production.
+
+- **Actuellement :** Head of IT chez NITA Transfert d'Argent
+- **Formation :** Master en architecture logicielle
+- **Domaines :** Microservices · Architecture événementielle · Systèmes de paiement · Cloud-native
+
+## Disponible pour
+
+| Architecture & conception | Audit technique | Leadership technique |
+| :--- | :--- | :--- |
+| Microservices, API, flux de paiement | Sécurité, scalabilité, qualité du code | Équipes, delivery, pratiques CI/CD |
+
+[**Me contacter →**](mailto:koisonnmanes@gmail.com)
+
+---
+
+## Architecture de référence : plateforme de paiement
+
+```mermaid
+flowchart LR
+    C[Clients Web / Mobile] --> G[API Gateway]
+    G --> A[Service Auth]
+    G --> P[Service Paiement]
+    G --> T[Service Transfert]
+    P <-->|gRPC| L[Service Grand livre]
+    T <-->|gRPC| L
+    P --> N[Service Notification]
+    L --> D[(Base de données)]
+    P --> Q{{Broker de messages}}
+    Q --> N
+```
+
+*Vue simplifiée du modèle d'architecture que j'utilise pour les systèmes de paiement : services indépendants, gRPC pour les appels internes, événements asynchrones pour les notifications.*
+
+---
+
+## Projets phares
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Payment Platform
+Architecture de paiement pour entreprise.
+
+`Java` `Spring Boot` `gRPC` `MySQL` `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+### DodaShop
+Plateforme e-commerce moderne.
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+### Spring Boot CRUD Template
+Modèle réutilisable appliquant les bonnes pratiques.
+
+`Java` `Spring Boot` `MongoDB` `Swagger` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack technique
+
+| Domaine | Technologies |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Architecture** | Microservices · REST · gRPC · Clean Architecture |
+
+---
+
+## Expérience
+
+| Période | Poste | Entreprise |
+| :--- | :--- | :--- |
+| 2026 – Aujourd'hui | Head of IT | NITA Transfert d'Argent |
+| 2022 – 2025 | Développeur Full-Stack / Tech Lead | ESMC GIE |
+| 2020 – 2022 | Développeur Full-Stack | JGK TECHNOLOGIE |
+
+## Certifications
+
+- **Foundations of Software Architecture**, Packt (2026)
+- **Introduction to DevOps & Cybersecurity**, IBM (2026)
+- **Microservices Design Patterns**, Udemy (2025)
+
+---
+
+## Activité GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amemorte99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amemorte99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+</p>
+
+---
+
+## Contact
+
+- **Email:** [koisonnmanes@gmail.com](mailto:koisonnmanes@gmail.com)
+- **LinkedIn:** [linkedin.com/in/koisonn-manes-mana99](https://www.linkedin.com/in/koisonn-manes-mana99/)
+- **Portfolio:** [koisonnmanes.tech](https://koisonnmanes.tech) · [kmmportfolio.netlify.app](https://kmmportfolio.netlify.app)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2563eb,100:0f172a&section=footer" alt="" />
+</div>
