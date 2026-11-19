@@ -1,37 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:2563eb&text=KOI-SONN%20MANES%20MANA&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Architect%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=60" alt="KOI-SONN MANES MANA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=KOI-SONN%20MANES%20MANA&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Software%20Architect%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=58" alt="KOI-SONN MANES MANA" />
 
-### I design reliable, scalable payment platforms.
+### *Building the future, one microservice at a time.*
 
 **English** · [Français](README.fr.md)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-koisonnmanes.tech-0f172a?style=flat-square&logo=firefox&logoColor=white)](https://koisonnmanes.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koisonn-manes-mana99/)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:koisonnmanes@gmail.com)
-![Location](https://img.shields.io/badge/Based%20in-Chad-475569?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-koisonnmanes.tech-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://koisonnmanes.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koisonn-manes-mana99/)
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koisonnmanes@gmail.com)
+![Location](https://img.shields.io/badge/Based%20in-Lom%C3%A9%2C%20Togo-475569?style=for-the-badge)
 
 </div>
 
----
+<br>
 
-## About
+<table>
+<tr>
+<td width="62%" valign="top">
 
-Software Architect and Backend Engineer specialised in **distributed systems**, **microservices** and **payment platforms**. I turn complex business needs into clean, secure and maintainable architectures, from system design to production.
+## About Me
 
-- **Now:** Head of IT at NITA Transfert d'Argent
+I'm a Software Architect and Backend Engineer passionate about building secure, scalable and high-performance software. I specialize in **distributed systems**, **microservices** and **payment platforms**.
+
+- **Currently:** Head of IT @ NITA Transfert d'Argent
 - **Education:** Master's Degree in Software Architecture
-- **Focus:** Microservices · Event-driven design · Payment systems · Cloud-native delivery
+- **Expertise:** Java, Spring Boot, Microservices, gRPC, Cloud (AWS/Azure), React, Flutter
 
-## Available for
+</td>
+<td width="38%" valign="top" align="center">
 
-| Architecture & design | Technical audit | Technical leadership |
-| :--- | :--- | :--- |
-| Microservices, APIs, payment flows | Security, scalability, code quality | Teams, delivery, CI/CD practices |
+## GitHub Statistics
 
-[**Get in touch →**](mailto:koisonnmanes@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Amemorte99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" width="100%" />
 
----
+</td>
+</tr>
+</table>
+
+## Core Expertise
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,nodejs,nestjs,laravel,react,vue,flutter,docker,aws,azure,firebase,postgres,mysql,mongodb&perline=8" alt="Tech stack" />
+</div>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Kotlin, NodeJS, NestJS, Laravel |
+| **Frontend** | React, Vue, Flutter, React Native |
+| **DevOps & Cloud** | Docker, CI/CD, AWS, Azure, Firebase |
+| **Database** | PostgreSQL, MySQL, MongoDB |
+| **Architecture** | Microservices, REST, gRPC, Clean Architecture |
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+#### Payment Platform
+Enterprise payment architecture.
+
+<sub>`Java · Spring Boot · gRPC · MySQL · Docker`</sub>
+
+</td>
+<td width="25%" valign="top">
+
+#### DodaShop
+Modern e-commerce platform.
+
+<sub>`React · Node.js · Express · MongoDB`</sub>
+
+</td>
+<td width="25%" valign="top">
+
+#### Spring Boot CRUD Template
+Reusable template with best practices.
+
+<sub>`Java · Spring Boot · MongoDB · Swagger · Docker`</sub>
+
+</td>
+<td width="25%" valign="top">
+
+#### Gestioncar
+Car management solution.
+
+<sub>`Java · Spring Boot`</sub>
+
+</td>
+</tr>
+</table>
 
 ## Reference Architecture: Payment Platform
 
@@ -49,86 +107,51 @@ flowchart LR
     Q --> N
 ```
 
-*Simplified view of the architecture pattern I use for payment systems: independent services, gRPC for internal calls, asynchronous events for notifications.*
-
----
-
-## Featured Projects
+*Simplified view of the pattern I use for payment systems: independent services, gRPC for internal calls, asynchronous events for notifications.*
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Payment Platform
-Enterprise payment architecture.
+## Let's Connect
 
-`Java` `Spring Boot` `gRPC` `MySQL` `Docker`
+- **Email**<br>[koisonnmanes@gmail.com](mailto:koisonnmanes@gmail.com)
+- **LinkedIn**<br>[linkedin.com/in/koisonn-manes-mana99](https://www.linkedin.com/in/koisonn-manes-mana99/)
+- **Portfolio**<br>[koisonnmanes.tech](https://koisonnmanes.tech) · [kmmportfolio.netlify.app](https://kmmportfolio.netlify.app)
+
+</td>
+<td width="34%" valign="top">
+
+## Career Timeline
+
+- **2026 – Present**<br>Head of IT @ NITA Transfert d'Argent
+- **2022 – 2025**<br>Full-Stack Developer / Lead Tech @ ESMC GIE
+- **2020 – 2022**<br>Full-Stack Developer @ JGK TECHNOLOGIE
 
 </td>
 <td width="33%" valign="top">
 
-### DodaShop
-Modern e-commerce platform.
+## Certifications
 
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-<td width="33%" valign="top">
-
-### Spring Boot CRUD Template
-Reusable starter applying best practices.
-
-`Java` `Spring Boot` `MongoDB` `Swagger` `Docker`
+- Foundations of Software Architecture, Packt (2026)
+- Microservices Design Patterns, Udemy (2025)
+- Introduction to DevOps & Cybersecurity, IBM (2026)
 
 </td>
 </tr>
 </table>
 
----
+## Contribution Activity
 
-## Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Architecture** | Microservices · REST · gRPC · Clean Architecture |
-
----
-
-## Experience
-
-| Period | Role | Company |
-| :--- | :--- | :--- |
-| 2026 – Present | Head of IT | NITA Transfert d'Argent |
-| 2022 – 2025 | Full-Stack Developer / Tech Lead | ESMC GIE |
-| 2020 – 2022 | Full-Stack Developer | JGK TECHNOLOGIE |
-
-## Certifications
-
-- **Foundations of Software Architecture**, Packt (2026)
-- **Introduction to DevOps & Cybersecurity**, IBM (2026)
-- **Microservices Design Patterns**, Udemy (2025)
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amemorte99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amemorte99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</p>
-
----
-
-## Contact
-
-- **Email:** [koisonnmanes@gmail.com](mailto:koisonnmanes@gmail.com)
-- **LinkedIn:** [linkedin.com/in/koisonn-manes-mana99](https://www.linkedin.com/in/koisonn-manes-mana99/)
-- **Portfolio:** [koisonnmanes.tech](https://koisonnmanes.tech) · [kmmportfolio.netlify.app](https://kmmportfolio.netlify.app)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amemorte99&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Contribution activity" width="100%" />
 
 <div align="center">
+
+### Open to new international opportunities
+Let's build something great together.
+
+[![Contact me](https://img.shields.io/badge/Contact%20me-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koisonnmanes@gmail.com)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2563eb,100:0f172a&section=footer" alt="" />
+
 </div>
